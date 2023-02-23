@@ -115,7 +115,7 @@ require (
 	github.com/urfave/cli v1.22.5
 	github.com/xanzy/go-gitlab v0.50.1
 	github.com/yohcop/openid-go v1.0.0
-	github.com/yuin/goldmark v1.3.9
+	github.com/yuin/goldmark v1.4.13
 	github.com/yuin/goldmark-highlighting v0.0.0-20210516132338-9216f9c5aa01
 	github.com/yuin/goldmark-meta v1.0.0
 	go.etcd.io/bbolt v1.3.6 // indirect
@@ -124,13 +124,13 @@ require (
 	go.uber.org/atomic v1.8.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.18.1 // indirect
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
-	golang.org/x/text v0.3.6
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8
 	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6 // indirect
-	golang.org/x/tools v0.1.0
+	golang.org/x/tools v0.1.12
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
